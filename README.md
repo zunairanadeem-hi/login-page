@@ -22,10 +22,8 @@ A clean, responsive, and modern login form interface built using HTML5 and CSS3,
 index.html 
 style2.css
 particlesanimate.css
-```Bash
-git clone [https://github.com/zunairanadeem-hi/login-page.git](https://github.com/zunairanadeem-hi/login-page.git)
 ```
-
-├── style2.css            # Primary form and layout styling
-├── particesanimate.css   # Background particle animation styles
-└── form.php              # Backend form action handler (placeholder)
+## Clone the repository
+```Bash
+git clone https://github.com/zunairanadeem-hi/login-page.git
+```
