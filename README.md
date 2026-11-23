@@ -25,4 +25,5 @@ particlesanimate.css
 ```
 ## Clone the repository
 ```Bash
-git clone https://github.com/zunairanadeem-hi/login-page.git
+git clone
+ https://github.com/zunairanadeem-hi/login-page.git
