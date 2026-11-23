@@ -23,7 +23,7 @@ index.html
 style2.css
 particlesanimate.css
 ```Bash
-git clone [https://github.com/zunairanadeemhi/login-page.git](https://github.com/zunairanadeemhi/login-page.git)
+git clone [https://github.com/zunairanadeem-hi/login-page.git](https://github.com/zunairanadeem-hi/login-page.git)
 ```
 
 ├── style2.css            # Primary form and layout styling
